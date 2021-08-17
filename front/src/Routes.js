@@ -1,0 +1,9 @@
+export const _Home = '/home';
+export const _AddPoint = '/add-point';
+export const _RangeQuery = '/range-query';
+export const _KNNQuery = '/knn-query';
+export const _NNQuery = '/nn-query';
+export const _Data = '/data';
+export const _Visualize = '/visualize';
+export const _Snapshots = '/snapshots';
+export const _ContainsQuery = '/contains-query';
